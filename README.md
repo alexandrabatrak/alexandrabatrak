@@ -28,7 +28,7 @@ I'm a designer/developer
   <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-plain.svg"  title="Premiere-Pro" alt="Premiere-Pro" width="40" height="40"/>&nbsp;
 </div>
 
-### Stats
+### :woman_shrugging: Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alexandrabatrak&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrabatrak&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
