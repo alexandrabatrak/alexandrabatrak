@@ -7,6 +7,8 @@ I'm a designer/developer
 - 📫 How to reach me: *contact@alexandrabatrak.uk*
 - 😄 Pronouns: *she/her*
 
+[![Image of https://github.com/alexandrabatrak/github-profile-views-counter](https://github.com/alexandrabatrak/github-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/alexandrabatrak/github-profile-views-counter)
+
 <hr>
 
 ### :hammer_and_wrench: Languages and Tools :
