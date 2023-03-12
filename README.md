@@ -3,7 +3,7 @@
 I'm a designer/developer 
 *from :estonia:, based in :gb:*
 
-- 🌱 I’m currently learning: *Frontend Development*
+- 🌱 I’m currently learning: *React, Next*
 - 📫 How to reach me: *contact@alexandrabatrak.uk*
 - 😄 Pronouns: *she/her*
 
