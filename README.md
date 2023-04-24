@@ -35,6 +35,6 @@ I'm a designer/developer
 </div>
 
 ### :woman_shrugging: Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alexandrabatrak&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&count_private=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alexandrabatrak&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&count_private=true&inlclude_all_commits=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrabatrak&theme=github_dark&hide_border=true&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrabatrak&theme=github_dark&hide_border=true&layout=compact&count_private=true&inlclude_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
