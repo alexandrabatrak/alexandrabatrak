@@ -3,7 +3,7 @@
 I'm a designer/developer 
 *from :estonia:, based in :gb:*
 
-- 🌱 I’m currently learning: *React, Next*
+- 🌱 I’m currently learning: *React, Next, TypeScript*
 - 📫 How to reach me: *contact@alexandrabatrak.uk*
 - 😄 Pronouns: *she/her*
 
@@ -22,6 +22,7 @@ I'm a designer/developer
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"  title="JQuery" alt="JQuery" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"  title="Next" alt="Next" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg"  title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
