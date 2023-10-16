@@ -35,9 +35,5 @@ I'm a Frontend Developer
   <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-plain.svg"  title="Premiere-Pro" alt="Premiere-Pro" width="40" height="40"/>&nbsp;
 </div>
 
-### :woman_shrugging: Public repos stats:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrabatrak&theme=github_dark&hide_border=true&layout=compact&count_private=true&inlclude_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
