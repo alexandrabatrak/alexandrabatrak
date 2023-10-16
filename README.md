@@ -3,7 +3,7 @@
 I'm a designer/developer 
 *from :estonia:, based in :gb:*
 
-- :seedling: I’m currently learning : *React, Next, TypeScript*
+- :seedling: I’m currently learning : *Fullstack*
 - :mailbox: How to reach me: *contact@alexandrabatrak.uk*
 - :nerd_face: *I don't sleep, I code.*
 
