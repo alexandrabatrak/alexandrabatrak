@@ -1,6 +1,6 @@
 ### "Waving hand" -> 👋
 
-I'm a designer/developer 
+I'm a Frontend Developer
 *from :estonia:, based in :gb:*
 
 - :seedling: I’m currently learning : *Fullstack*
