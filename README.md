@@ -4,7 +4,7 @@ I'm a Frontend Developer
 *from :estonia:, based in :gb:*
 
 - :seedling: I’m currently learning : *Fullstack*
-- :mailbox: How to reach me: *contact@alexandrabatrak.uk*
+- :mailbox: How to reach me: *alexandrabatrak.uk@gmail.com*
 - :nerd_face: *I don't sleep, I code.*
 
 [![Image of https://github.com/alexandrabatrak/github-profile-views-counter](https://github.com/alexandrabatrak/github-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/alexandrabatrak/github-profile-views-counter)
